@@ -25,3 +25,6 @@ Softwares used for the creation of this Mod:
 - ADX Freeware Tools
 
 Special Thanks to SEGA, Yu Suzuki, Toshihiro Nagoshi, Takenobu Mitsuyoshi, Gamoover, Emuline, TeknoParrot and all the little hands who work to preserve Arcade game history.
+
+DOWNLOAD MIRRORS (Due to file size limit of GitHub):
+https://1fichier.com/?lurljrnreonzcedjgyzl [114.6 MB]
