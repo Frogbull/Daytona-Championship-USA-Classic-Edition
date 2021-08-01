@@ -1,8 +1,9 @@
 Daytona Championship USA Classic Edition
 ========================================
 
-Version: 1.0 (01/08/2021)
 Author: Frogbull
+
+Current Version: 1.0 (01/08/2021)
 
 Why this Mod?
 - To make Daytona Championship USA closer to the original game.
